@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>laserllama</name>
+    <update version="1.0">
+      <file name="laserllama-clap.index" url="https://raw.githubusercontent.com/clapyourhands/laserllama-homebrew/main/laserllama-clap.index" />
+    </update>
+  </info>
